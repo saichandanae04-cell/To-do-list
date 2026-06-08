@@ -1,2 +1,2 @@
 # To-do-list
-A simple To-Do List application built using Python that allows users to add, view, update, and delete tasks for efficient task management.
+This is a To-Do List project developed using Python. The application helps users manage their daily tasks by providing features such as adding new tasks, viewing existing tasks, updating task details, and deleting completed or unwanted tasks. The project demonstrates the use of Python programming concepts, including functions, lists, loops, and file handling for task storage and management.
